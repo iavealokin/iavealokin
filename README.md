@@ -4,7 +4,7 @@ My name is Alexandr Nikolaev. I'm Russian programmer.
 I know Javascript, Jquery, a little PHP.
 Now, I study Golang.
 
- 🔭 I’m currently working on MoneyDrive Pet project by Golang.
+ 🔭I am currently working on the Pet project MoneyDrive in the Golang language.
 <!--
 **iavealokin/iavealokin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
